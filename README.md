@@ -1,2 +1,0 @@
-# kunstigrdam
-Created with CodeSandbox
